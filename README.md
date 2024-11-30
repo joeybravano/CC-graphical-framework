@@ -1,1 +1,2 @@
-dead project as i lost intrest in it
+#CC+
+### a graphical engine made for small scale projects
