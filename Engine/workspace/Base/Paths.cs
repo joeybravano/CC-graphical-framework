@@ -8,7 +8,7 @@ namespace CC__graphical_framework.Engine.workspace.Base
 {
     internal class Paths
     {
-        public static string Image =>  "C:\\Users\\c6162\\source\\repos\\CC+ graphical framework\\CC+ graphical framework\\Engine\\assets\\images//";
+        public static string Image => 
         
     }
 }
